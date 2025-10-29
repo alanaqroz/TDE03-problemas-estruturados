@@ -1,13 +1,12 @@
 # Comparação de Algoritmos de Ordenação
 
-## 📘 Contexto
-Este projeto foi desenvolvido como parte da disciplina de **Estruturas de Dados**, com o objetivo de comparar diferentes algoritmos de ordenação em termos de **tempo de execução**, **número de trocas** e **iterações**.
+Este projeto foi desenvolvido como parte da disciplina de **Resolução de Problemas Estruturados**, com o objetivo de comparar diferentes algoritmos de ordenação em termos de **número de trocas** e **iterações**.
 
 Foram implementados seis algoritmos de ordenação e um programa principal para realizar a comparação entre eles.
 
 ---
 
-## 🧩 Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto contém as seguintes classes:
 
@@ -21,7 +20,7 @@ O projeto contém as seguintes classes:
 
 ---
 
-## 📊 Resultados Obtidos
+## Resultados Obtidos
 
 ### Vetor 1
 | Algoritmo      | Tempo (ns) | Trocas | Iterações |
@@ -59,7 +58,7 @@ O projeto contém as seguintes classes:
 
 ---
 
-## 🧠 Conclusão
+## Conclusão
 A partir dos resultados, é possível observar que:
 
 - **Comb Sort** e **Bucket Sort** apresentaram os menores tempos médios.
@@ -70,5 +69,5 @@ Esses testes reforçam como a escolha do algoritmo de ordenação depende fortem
 
 ---
 
-## 💻 Autor
-Desenvolvido por *Aluna de Ciência da Computação - PUC*.
+## Autor
+Desenvolvido por *Alana Queiroz*.
